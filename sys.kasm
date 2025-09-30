@@ -1,0 +1,3 @@
+func exit
+int 0xFF
+end

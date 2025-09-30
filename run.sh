@@ -1,0 +1,1 @@
+python3 compiler.py code.kasm -o code.kbc && python3 asm.py code.kbc

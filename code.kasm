@@ -1,0 +1,5 @@
+using io
+using sys
+call get_chr
+call print
+call exit

@@ -1,0 +1,11 @@
+set str A = "hello"
+set str B = "world"
+set str C = A + " " + B
+print(len(C))
+
+--
+alloc 5, A
+mov [A+0,5], 5shello
+alloc 5, B
+mov [B+0,5], 5sworld
+alloc 1024, C
